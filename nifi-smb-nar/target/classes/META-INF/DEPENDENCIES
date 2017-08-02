@@ -1,0 +1,27 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-smb-nar
+
+
+From: 'an unknown organization'
+  - servlet-api  javax.servlet:servlet-api:jar:2.4
+
+  - jCIFS (http://jcifs.samba.org) jcifs:jcifs:jar:1.3.17
+    License: GNU Lesser General Public License, version 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt)
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-smb-processors (http://nifi.apache.org/nifi-nar-bundles/processors/nifi-smb-processors) gr:nifi-smb-processors:nar:1.0-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.5
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
